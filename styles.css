@@ -1,0 +1,21 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    width:75%;
+  }
+  
+
+  
+  .item1 {
+    grid-column: 1 / 3;
+    background-color: #F4B335;
+  }
+  .item{
+    color: #F4B335;
+  }
+  h2{
+    color: white;
+    text-align: left;
+    padding: 5px;
+  }
+  
